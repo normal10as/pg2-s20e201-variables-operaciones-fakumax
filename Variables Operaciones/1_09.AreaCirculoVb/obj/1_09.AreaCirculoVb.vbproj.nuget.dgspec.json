@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj": {}
+    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj": {
+    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj",
         "projectName": "1_09.AreaCirculoVb",
-        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj",
+        "projectPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\1_09.AreaCirculoVb.vbproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_09.AreaCirculoVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
