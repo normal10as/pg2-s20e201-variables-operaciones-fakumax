@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj",
         "projectName": "1_05.CuadraticaVb",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\1_05.CuadraticaVb.vbproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_05.CuadraticaVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj",
         "projectName": "1_04.VelocidadDeLaLuzVb",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\1_04.VelocidadDeLaLuzVb.vbproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_04.VelocidadDeLaLuzVb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

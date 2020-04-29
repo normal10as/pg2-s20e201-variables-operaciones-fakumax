@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj",
         "projectName": "1_02.CotizacionTerrenoCs",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\1_02.CotizacionTerrenoCs.csproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_02.CotizacionTerrenoCs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

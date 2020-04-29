@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj": {}
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj": {
+    "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj",
+        "projectUniqueName": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj",
         "projectName": "1_03.EquivalenciasHorasCs",
-        "projectPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj",
+        "projectPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\1_03.EquivalenciasHorasCs.csproj",
         "packagesPath": "C:\\Users\\n0mak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\n0mak\\source\\repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\obj\\",
+        "outputPath": "C:\\Users\\n0mak\\Source\\Repos\\normal10as\\pg2-s20e201-variables-operaciones-fakumax\\Variables Operaciones\\1_03.EquivalenciasHorasCs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
