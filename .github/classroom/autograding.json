@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "CostosVb",
+      "setup": "",
+      "run": "costosvb.exe",
+      "input": "10",
+      "output": "10",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
