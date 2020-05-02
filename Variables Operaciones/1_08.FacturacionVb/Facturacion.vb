@@ -4,6 +4,24 @@ Imports System
 'artículo, utilidad, impuesto y precio de venta.
 Module Facturacion
     Sub Main(args As String())
-        Console.WriteLine("Hello World!")
+        Dim articulo As String = nombreArticulo()
+        Dim precio As Single = costoArticulo()
+        Dim precioUtilidad As Single = precio * 150 / 100
+        Dim iva As Single = (precio + precioUtilidad) * 0.21
+        Console.WriteLine("Artículo : {0}" & vbCrLf &
+                          "Precio: {1}" & vbCrLf &
+                          "Utilidad: {2}" & vbCrLf &
+                          "Impuesto : {3}" & vbCrLf &
+                          "PRECIO VENTA: {4}", articulo, precio, precioUtilidad, iva, precio + precioUtilidad + iva)
     End Sub
+
+    Function nombreArticulo() As String
+        Console.Write("Ingrese nombre de un producto : ")
+        Return Console.ReadLine
+    End Function
+
+    Function costoArticulo() As Single
+        Console.Write("Ingrese costo del articulo : ")
+        Return Console.ReadLine
+    End Function
 End Module

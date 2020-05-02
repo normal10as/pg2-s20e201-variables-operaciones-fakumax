@@ -13,8 +13,6 @@ namespace _1_02.CotizacionTerrenoCs
             Console.WriteLine("Cotización de terreno");
             Console.WriteLine(calculaprecio(tipoterreno()));
        
-
-
         int tipoterreno() {
             int opcion;
             do{ 
